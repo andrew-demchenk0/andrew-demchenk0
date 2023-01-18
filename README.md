@@ -3,14 +3,14 @@ I`m studyng to become
 a web developer
 
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andrew-demchenko-21334125a" target="_blank">
+<a href="https://www.linkedin.com/in/andrew-demchenko-21334125a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 20px;" />
 </a>
-<a href="https://instagram.com/https://instagram.com/andrew.demchenk0?igshid=YWJhMjlhZTc=
+<a href="https://instagram.com/andrew.demchenk0?igshid=YWJhMjlhZTc=
 " target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=#E1306C alt=instagram style="margin-bottom: 20px;" />
 </a>
-<a href="https://github.com/https://github.com/andrew-demchenk0" target="_blank">
+<a href="https://github.com/andrew-demchenk0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 20px;" />
 </a>  
 <a href="https://t.me/demchik2a" target="_blank">

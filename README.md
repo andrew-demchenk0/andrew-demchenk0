@@ -10,9 +10,9 @@ a web developer
 " target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=#E1306C alt=instagram style="margin-bottom: 20px;" />
 </a>
-<a href="https://github.com/andrew-demchenk0" target="_blank">
+<!-- <a href="https://github.com/andrew-demchenk0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 20px;" />
-</a>  
+</a>   -->
 <a href="https://t.me/demchik2a" target="_blank">
 <img src=https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9 alt=telegram style="margin-bottom: 20px;" />
 </a>
@@ -34,7 +34,7 @@ a web developer
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="100" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="100" /></a>  
+<!-- <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="100" /></a>   -->
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="100" /></a>  
 <a href="http://getbem.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="100" /></a>  
 </div>  

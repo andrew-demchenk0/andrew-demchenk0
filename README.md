@@ -43,5 +43,5 @@ a web developer
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-demchenk0&hide_border=true&layout=compact" width="100%" />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-demchenk0&hide_progress=true)
+
 

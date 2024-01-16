@@ -3,7 +3,7 @@ I`m studyng to become
 a web developer
 
 <div align="center">
-<a href="https://www.linkedin.com/in/andrew-demchenko-21334125a" target="_blank">
+<a href="https://www.linkedin.com/in/andrew-demchenk0" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 20px;" />
 </a>
 <a href="https://instagram.com/andrew.demchenk0?igshid=YWJhMjlhZTc=
@@ -20,6 +20,7 @@ a web developer
 
 <div align="center">
  👉  Visit my portfolio site: <a href="https://andrew-demchenk0.github.io" target="_blank">https://andrew-demchenk0.github.io</a> 
+ 👉  Hobbie <a href="https://uiverse.io/profile/andrew-demchenk0" target="_blank">explore my ui elements</a> 
 </div>  
 </td></tr></table>  
 

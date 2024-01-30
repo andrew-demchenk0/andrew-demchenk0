@@ -111,3 +111,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-demchenk0&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=12&theme=dark&hide_border=true&order=2" height="280" alt="languages graph"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/andrew-demchenk0/andrew-demchenk0/output/snake.svg" alt="Snake animation" />
+
+###

@@ -91,7 +91,7 @@
 
 ###
 
-🌱I’m currently learning: Next.js, Typescript, Zustand
+🌱I’m currently learning: __Next.js, Typescript, Zustand__
 
 ###
 
@@ -108,7 +108,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-demchenk0&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=12&theme=dark&hide_border=true&order=2" height="280" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-demchenk0&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=6&theme=dark&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###

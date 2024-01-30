@@ -91,19 +91,19 @@
 
 ###
 
-<h6 align="left">🌱 I’m currently learning: Next.js, Typescript, Zustand</h6>
+🌱I’m currently learning: Next.js, Typescript, Zustand
 
 ###
 
-<h6 align="left">👨‍💻 Most of my projects are available at https://andrew-demchenk0.github.io</h6>
+👨‍💻 Most of my projects are available at https://andrew-demchenk0.github.io
 
 ###
 
-<h6 align="left">📄 Know about my experiences: http://surl.li/pyaki</h6>
+📄 Know about my experiences: [Resume](http://surl.li/pyaki)
 
 ###
 
-<h6 align="left">👾 Explore my ui elements: https://uiverse.io/profile/andrew-demchenk0</h6>
+👾 Explore my ui elements: [Uiverse profile](https://uiverse.io/profile/andrew-demchenk0)
 
 ###
 
